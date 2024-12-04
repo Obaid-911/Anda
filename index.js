@@ -15,6 +15,10 @@ app.get('/cod', (req, res) => {
     res.send('<h1>draken13</h1>')
 })
 
+app.get('/twitter', (req, res)=> {
+  res.send('obaid')
+})
+
 app.listen(process.env.PORT, () => {
   console.log(`Example app listening on port ${port}`)
 })
