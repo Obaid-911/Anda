@@ -1,5 +1,5 @@
 {
-  "name": "egg",
+  "name": "anda",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,9 +7,10 @@
   },
   "author": "obaid",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "dotenv": "^16.4.7",
     "express": "^4.21.1"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
